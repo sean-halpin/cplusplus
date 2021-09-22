@@ -1,3 +1,7 @@
+## Official CPP Tutorial Code Snippets
+
+[cplusplus.com](http://www.cplusplus.com/doc/tutorial/)
+
 ## Compile
 
 ```
